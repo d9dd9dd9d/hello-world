@@ -1,4 +1,5 @@
-Adding a dimension to a tensor can be important when you’re building deep learning models. In numpy, you can do this by inserting None into the axis you want to add.
+Adding a dimension to a tensor can be important when you’re building deep learning models. 
+In numpy, you can do this by inserting None into the axis you want to add.
 
 import numpy as np
 
